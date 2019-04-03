@@ -1,0 +1,10 @@
+*.swp
+*.swo
+**/*~
+**/node_modules/
+**/bin/
+**/obj/
+**/.env
+yarn-error.log
+**/out/
+

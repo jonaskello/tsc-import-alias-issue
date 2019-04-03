@@ -1,0 +1,12 @@
+{
+  "name": "temp-fuck-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.4.1"
+  },
+  "devDependencies": {
+    "tsconfig-paths": "^3.8.0"
+  }
+}
