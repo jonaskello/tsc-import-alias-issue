@@ -7,7 +7,7 @@
     "lib": ["dom", "es2017"],
     "module": "commonjs",
     "moduleResolution": "node",
-    "noEmit": true,
+    "noEmit": false,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "paths": {
@@ -20,9 +20,6 @@
     "sourceMap": true,
     "strict": true,
     "target": "esnext",
-    "typeRoots": [
-      "./node_modules/@types",
-      "./typings"
-    ]
+    "typeRoots": ["./node_modules/@types", "./typings"]
   }
 }
